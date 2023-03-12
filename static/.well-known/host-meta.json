@@ -1,0 +1,15 @@
+{
+  
+	"links": [
+    
+		{
+      
+			"rel": "urn:xmpp:alt-connections:websocket",
+      
+			"href": "wss://localhost/chat/ws"
+    
+		}
+  
+	]
+
+}
